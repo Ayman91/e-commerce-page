@@ -38,10 +38,10 @@ cartBtn = document.querySelector('.product--cart-btn')
 
 // slider images
 images = [
-  '/images/image-product-1.jpg',
-  '/images/image-product-2.jpg',
-  '/images/image-product-3.jpg',
-  '/images/image-product-4.jpg'
+  'https://ayman91.github.io/e-commerce-page/images/image-product-1.jpg',
+  'https://ayman91.github.io/e-commerce-page/images/image-product-2.jpg',
+  'https://ayman91.github.io/e-commerce-page/images/image-product-3.jpg',
+  'https://ayman91.github.io/e-commerce-page/images/image-product-4.jpg'
 ];
 
 let imgIndex = 0,
