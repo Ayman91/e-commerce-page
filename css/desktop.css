@@ -228,19 +228,19 @@
   }
 
   .img:nth-child(1) {
-    background: url('/images/image-product-1-thumbnail.jpg') no-repeat center;
+    background: url('https://ayman91.github.io/e-commerce-page/images/image-product-1-thumbnail.jpg') no-repeat center;
   }
 
   .img:nth-child(2) {
-    background: url('/images/image-product-2-thumbnail.jpg') no-repeat center;
+    background: url('https://ayman91.github.io/e-commerce-page/images/image-product-2-thumbnail.jpg') no-repeat center;
   }
 
   .img:nth-child(3) {
-    background: url('/images/image-product-3-thumbnail.jpg') no-repeat center;
+    background: url('https://ayman91.github.io/e-commerce-page/images/image-product-3-thumbnail.jpg') no-repeat center;
   }
 
   .img:nth-child(4) {
-    background: url('/images/image-product-4-thumbnail.jpg') no-repeat center;
+    background: url('https://ayman91.github.io/e-commerce-page/images/image-product-4-thumbnail.jpg') no-repeat center;
   }
 
   :is(.img:nth-child(1), .img:nth-child(2), .img:nth-child(3), .img:nth-child(4)) {
